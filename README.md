@@ -1,6 +1,13 @@
 # Telco Hub Pattern
 
-> **A GitOps-based validated pattern for deploying and managing Telco Hub infrastructure using Red Hat OpenShift, Advanced Cluster Management (ACM), and Zero Touch Provisioning (ZTP).**
+> **⚠️ NOTICE: SANDBOX PROJECT ⚠️**
+>
+> **This project has been moved to the Validated Patterns Sandbox.**
+>
+> 🔄 **Active development is now happening at:**  
+> **https://github.com/validatedpatterns-sandbox/telco-hub-pattern**
+>
+> Please visit the new repository for the latest updates, issues, and contributions.
 
 [![OpenShift](https://img.shields.io/badge/OpenShift-4.14+-red?logo=redhat)](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 [![Validated Patterns](https://img.shields.io/badge/Validated-Patterns-blue)](https://validatedpatterns.io/)
@@ -9,6 +16,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [Live build status](https://validatedpatterns.io/ci/?pattern=telco-hub)
+
+> **A GitOps-based validated pattern for deploying and managing Telco Hub infrastructure using Red Hat OpenShift, Advanced Cluster Management (ACM), and Zero Touch Provisioning (ZTP).**
 
 ---
 
